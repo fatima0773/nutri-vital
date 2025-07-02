@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "1",
+    "question": "Are your supplements third-party tested?",
+    "answer": "Yes, all NutriVital supplements undergo rigorous third-party testing for purity, potency, and safety. We work with independent laboratories to verify that our products meet the highest quality standards and are free from contaminants like heavy metals, microbes, and pesticides."
+  },
+  {
+    "id": "2",
+    "question": "What makes your products different from others?",
+    "answer": "NutriVital focuses on premium, bioavailable ingredients sourced from trusted suppliers. We use chelated minerals, organic compounds, and include synergistic ingredients like BioPerine to enhance absorption. All our products are non-GMO, and many are organic and vegan-friendly."
+  },
+  {
+    "id": "3",
+    "question": "How should I store my supplements?",
+    "answer": "Store your supplements in a cool, dry place away from direct sunlight and heat. Keep them in their original containers with lids tightly closed. Most supplements should be stored at room temperature, but probiotics may require refrigeration - check individual product labels for specific storage instructions."
+  },
+  {
+    "id": "4",
+    "question": "Can I take multiple supplements together?",
+    "answer": "Many supplements can be taken together safely, but some combinations may affect absorption or effectiveness. We recommend consulting with a healthcare professional before combining multiple supplements, especially if you're taking medications or have health conditions. Start with one supplement at a time to assess tolerance."
+  },
+  {
+    "id": "5",
+    "question": "What is your return policy?",
+    "answer": "We offer a 60-day satisfaction guarantee on all products. If you're not completely satisfied with your purchase, you can return unopened products within 60 days for a full refund. For opened products, we offer a partial refund or store credit. Please contact our customer service team to initiate a return."
+  },
+  {
+    "id": "6",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping typically takes 3-5 business days within the continental US. Express shipping (1-2 business days) and overnight shipping options are available at checkout. We ship Monday through Friday, and orders placed before 2 PM EST are processed the same day. Free shipping is available on orders over $75."
+  },
+  {
+    "id": "7",
+    "question": "Are your products suitable for vegetarians and vegans?",
+    "answer": "Many of our products are suitable for vegetarians and vegans, and we clearly label them as such. Our plant-based proteins, most vitamins, and herbal supplements are vegan-friendly. However, some products like fish oil and whey protein are not suitable for vegans. Always check the product label for specific dietary information."
+  },
+  {
+    "id": "8",
+    "question": "Do you offer subscriptions or auto-delivery?",
+    "answer": "Yes, we offer a convenient subscription service with up to 15% savings on your favorite products. You can choose delivery frequencies from every 30 to 90 days, and you can modify, pause, or cancel your subscription at any time through your account. Subscribers also get early access to new products and exclusive offers."
+  }
+]

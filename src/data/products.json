@@ -1,0 +1,271 @@
+
+[
+  {
+    "id": "1",
+    "name": "Premium Multivitamin Complex",
+    "category": "Vitamins",
+    "price": 49.99,
+    "description": "Complete daily nutrition with 25+ essential vitamins and minerals",
+    "longDescription": "Our Premium Multivitamin Complex is formulated with bioavailable forms of essential nutrients to support overall health and vitality. Each capsule contains optimal amounts of vitamins A, C, D, E, K, and all B vitamins, plus important minerals like zinc, magnesium, and selenium.",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": true,
+    "inStock": true,
+    "rating": 4.8,
+    "reviewCount": 324,
+    "certifications": ["Non-GMO", "Third-Party Tested", "GMP Certified"],
+    "ingredients": [
+      "Vitamin A (as Beta-Carotene)",
+      "Vitamin C (as Ascorbic Acid)",
+      "Vitamin D3 (as Cholecalciferol)",
+      "Vitamin E (as d-Alpha Tocopherol)",
+      "B-Complex Vitamins",
+      "Zinc (as Zinc Bisglycinate)",
+      "Magnesium (as Magnesium Glycinate)"
+    ],
+    "benefits": [
+      "Supports immune system function",
+      "Promotes energy metabolism",
+      "Enhances cognitive function",
+      "Supports bone health"
+    ],
+    "servingSize": "2 capsules",
+    "servingsPerContainer": 30,
+    "tags": ["daily-nutrition", "immune-support", "energy"]
+  },
+  {
+    "id": "2",
+    "name": "Organic Whey Protein Powder",
+    "category": "Protein",
+    "price": 59.99,
+    "description": "Grass-fed whey protein with 25g protein per serving",
+    "longDescription": "Sourced from grass-fed cows, our Organic Whey Protein Powder delivers clean, complete protein to support muscle growth and recovery. Free from artificial flavors, colors, and sweeteners.",
+    "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": true,
+    "inStock": true,
+    "rating": 4.9,
+    "reviewCount": 567,
+    "certifications": ["Organic", "Grass-Fed", "Non-GMO", "Third-Party Tested"],
+    "ingredients": [
+      "Organic Whey Protein Concentrate",
+      "Natural Vanilla Flavor",
+      "Organic Stevia Leaf Extract",
+      "Sunflower Lecithin"
+    ],
+    "benefits": [
+      "Supports muscle growth and repair",
+      "High biological value protein",
+      "Easy to digest",
+      "No artificial additives"
+    ],
+    "servingSize": "1 scoop (30g)",
+    "servingsPerContainer": 28,
+    "tags": ["protein", "muscle-building", "organic", "post-workout"]
+  },
+  {
+    "id": "3",
+    "name": "Omega-3 Fish Oil Capsules",
+    "category": "Supplements",
+    "price": 34.99,
+    "description": "High-potency EPA & DHA for heart and brain health",
+    "longDescription": "Our premium Omega-3 Fish Oil is sourced from wild-caught fish and molecularly distilled for purity. Each capsule provides optimal ratios of EPA and DHA to support cardiovascular health, brain function, and reduce inflammation.",
+    "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": false,
+    "inStock": true,
+    "rating": 4.7,
+    "reviewCount": 289,
+    "certifications": ["Wild-Caught", "Molecularly Distilled", "Third-Party Tested"],
+    "ingredients": [
+      "Fish Oil Concentrate",
+      "EPA (Eicosapentaenoic Acid)",
+      "DHA (Docosahexaenoic Acid)",
+      "Natural Mixed Tocopherols"
+    ],
+    "benefits": [
+      "Supports heart health",
+      "Promotes brain function",
+      "Reduces inflammation",
+      "Supports joint health"
+    ],
+    "servingSize": "2 softgels",
+    "servingsPerContainer": 60,
+    "tags": ["omega-3", "heart-health", "brain-support", "anti-inflammatory"]
+  },
+  {
+    "id": "4",
+    "name": "Probiotic Complex 50 Billion CFU",
+    "category": "Supplements",
+    "price": 39.99,
+    "description": "Advanced probiotic blend for digestive and immune support",
+    "longDescription": "Our Probiotic Complex contains 12 carefully selected strains with 50 billion CFUs per capsule. Formulated with prebiotics to enhance probiotic effectiveness and support a healthy gut microbiome.",
+    "image": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": true,
+    "inStock": true,
+    "rating": 4.6,
+    "reviewCount": 412,
+    "certifications": ["Non-GMO", "Gluten-Free", "Third-Party Tested"],
+    "ingredients": [
+      "Lactobacillus acidophilus",
+      "Bifidobacterium lactis",
+      "Lactobacillus plantarum",
+      "Lactobacillus paracasei",
+      "Inulin (Prebiotic Fiber)"
+    ],
+    "benefits": [
+      "Supports digestive health",
+      "Enhances immune function",
+      "Promotes gut microbiome balance",
+      "Aids nutrient absorption"
+    ],
+    "servingSize": "1 capsule",
+    "servingsPerContainer": 60,
+    "tags": ["probiotics", "digestive-health", "immune-support", "gut-health"]
+  },
+  {
+    "id": "5",
+    "name": "Vitamin D3 + K2 Complex",
+    "category": "Vitamins",
+    "price": 29.99,
+    "description": "Synergistic blend for bone health and calcium absorption",
+    "longDescription": "Our Vitamin D3 + K2 Complex combines optimal doses of cholecalciferol (D3) and menaquinone-7 (K2) to support bone health, immune function, and proper calcium utilization.",
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": false,
+    "inStock": true,
+    "rating": 4.8,
+    "reviewCount": 198,
+    "certifications": ["Non-GMO", "Third-Party Tested", "Vegan Friendly"],
+    "ingredients": [
+      "Vitamin D3 (as Cholecalciferol)",
+      "Vitamin K2 (as Menaquinone-7)",
+      "Organic Coconut Oil",
+      "Natural Vitamin E"
+    ],
+    "benefits": [
+      "Supports bone density",
+      "Enhances calcium absorption",
+      "Promotes immune function",
+      "Supports cardiovascular health"
+    ],
+    "servingSize": "1 softgel",
+    "servingsPerContainer": 90,
+    "tags": ["vitamin-d", "bone-health", "immune-support", "calcium-absorption"]
+  },
+  {
+    "id": "6",
+    "name": "Magnesium Glycinate 400mg",
+    "category": "Minerals",
+    "price": 24.99,
+    "description": "Highly bioavailable magnesium for muscle and nerve support",
+    "longDescription": "Our Magnesium Glycinate is chelated with the amino acid glycine for superior absorption and minimal digestive upset. Essential for over 300 enzymatic reactions in the body.",
+    "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": false,
+    "inStock": true,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "certifications": ["Non-GMO", "Gluten-Free", "Third-Party Tested"],
+    "ingredients": [
+      "Magnesium (as Magnesium Glycinate)",
+      "Vegetable Cellulose Capsule",
+      "Rice Flour",
+      "Magnesium Stearate"
+    ],
+    "benefits": [
+      "Supports muscle function",
+      "Promotes relaxation",
+      "Aids sleep quality",
+      "Supports bone health"
+    ],
+    "servingSize": "2 capsules",
+    "servingsPerContainer": 60,
+    "tags": ["magnesium", "muscle-support", "relaxation", "sleep-aid"]
+  },
+  {
+    "id": "7",
+    "name": "Turmeric Curcumin Extract",
+    "category": "Supplements",
+    "price": 32.99,
+    "description": "High-potency turmeric with BioPerine for enhanced absorption",
+    "longDescription": "Our Turmeric Curcumin Extract contains 95% curcuminoids and includes BioPerine black pepper extract to enhance bioavailability by up to 2000%. Supports healthy inflammatory response and joint comfort.",
+    "image": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": true,
+    "inStock": true,
+    "rating": 4.9,
+    "reviewCount": 387,
+    "certifications": ["Organic", "Non-GMO", "Third-Party Tested"],
+    "ingredients": [
+      "Turmeric Root Extract (95% Curcuminoids)",
+      "BioPerine Black Pepper Extract",
+      "Vegetable Cellulose Capsule",
+      "Rice Flour"
+    ],
+    "benefits": [
+      "Supports healthy inflammation response",
+      "Promotes joint comfort",
+      "Powerful antioxidant properties",
+      "Supports cognitive function"
+    ],
+    "servingSize": "2 capsules",
+    "servingsPerContainer": 60,
+    "tags": ["turmeric", "anti-inflammatory", "joint-support", "antioxidant"]
+  },
+  {
+    "id": "8",
+    "name": "Ashwagandha Root Extract",
+    "category": "Supplements",
+    "price": 27.99,
+    "description": "Adaptogenic herb for stress management and energy support",
+    "longDescription": "Our premium Ashwagandha root extract is standardized to contain 5% withanolides, the active compounds responsible for its adaptogenic properties. Supports stress response, energy levels, and overall well-being.",
+    "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+    "images": [
+      "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400&h=400&fit=crop",
+      "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=400&h=400&fit=crop"
+    ],
+    "bestSeller": false,
+    "inStock": true,
+    "rating": 4.5,
+    "reviewCount": 243,
+    "certifications": ["Organic", "Non-GMO", "Vegan", "Third-Party Tested"],
+    "ingredients": [
+      "Ashwagandha Root Extract (5% Withanolides)",
+      "Organic Ashwagandha Root Powder",
+      "Vegetable Cellulose Capsule",
+      "Organic Rice Hull"
+    ],
+    "benefits": [
+      "Supports stress management",
+      "Promotes energy and vitality",
+      "Supports cognitive function",
+      "Helps maintain healthy cortisol levels"
+    ],
+    "servingSize": "2 capsules",
+    "servingsPerContainer": 30,
+    "tags": ["ashwagandha", "adaptogen", "stress-relief", "energy-support"]
+  }
+]
